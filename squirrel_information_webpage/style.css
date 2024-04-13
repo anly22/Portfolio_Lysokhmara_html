@@ -1,0 +1,75 @@
+body{
+	background-color: #d5facd;
+}
+
+.header{
+	display: flex;
+	vertical-align: middle;
+	background-color: #5a6e5a;
+}
+
+.logo img{
+	width: 15%;
+	padding: 4px;
+	
+}
+
+.nav{
+	
+	padding: 15px;
+	text-align: right;
+}
+
+.nav li{
+	display: inline;
+
+}
+
+.nav a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	font-size: 25px;
+
+}
+
+h2{
+	font-size: 20px;
+	text-align: center;
+	color: #01330a;
+}
+
+#heading1{
+	text-transform: uppercase;
+}
+
+#heading2{
+	text-decoration: underline;
+}
+
+
+.text{
+	font-size: 16px;
+	text-align: justify;
+	padding: 20px 10px;
+	border: 3px double #02a314;
+}
+
+
+#content-img img{
+	width: 29%;
+	float: left;
+	padding: 10px;
+}
+
+	
+#content-text{
+	padding: 10px;
+	float: right;
+	width: 65%;
+}
+
+.text-1{
+	font-size: 18px;
+	text-align: justify;
+}
